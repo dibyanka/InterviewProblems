@@ -1,0 +1,1 @@
+This project contains the collection of questions asked during a software developer interview. These questions were prepared by me over the course of time when I got opportunity to be a part technical hiring team.
